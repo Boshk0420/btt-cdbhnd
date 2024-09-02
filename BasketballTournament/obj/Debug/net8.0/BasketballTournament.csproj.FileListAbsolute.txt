@@ -1,0 +1,14 @@
+C:\Users\mbosk\Desktop\zadatak za intervju\btt-cdbhnd\BasketballTournament\bin\Debug\net8.0\BasketballTournament.exe
+C:\Users\mbosk\Desktop\zadatak za intervju\btt-cdbhnd\BasketballTournament\bin\Debug\net8.0\BasketballTournament.deps.json
+C:\Users\mbosk\Desktop\zadatak za intervju\btt-cdbhnd\BasketballTournament\bin\Debug\net8.0\BasketballTournament.runtimeconfig.json
+C:\Users\mbosk\Desktop\zadatak za intervju\btt-cdbhnd\BasketballTournament\bin\Debug\net8.0\BasketballTournament.dll
+C:\Users\mbosk\Desktop\zadatak za intervju\btt-cdbhnd\BasketballTournament\bin\Debug\net8.0\BasketballTournament.pdb
+C:\Users\mbosk\Desktop\zadatak za intervju\btt-cdbhnd\BasketballTournament\obj\Debug\net8.0\BasketballTournament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbosk\Desktop\zadatak za intervju\btt-cdbhnd\BasketballTournament\obj\Debug\net8.0\BasketballTournament.AssemblyInfoInputs.cache
+C:\Users\mbosk\Desktop\zadatak za intervju\btt-cdbhnd\BasketballTournament\obj\Debug\net8.0\BasketballTournament.AssemblyInfo.cs
+C:\Users\mbosk\Desktop\zadatak za intervju\btt-cdbhnd\BasketballTournament\obj\Debug\net8.0\BasketballTournament.csproj.CoreCompileInputs.cache
+C:\Users\mbosk\Desktop\zadatak za intervju\btt-cdbhnd\BasketballTournament\obj\Debug\net8.0\BasketballTournament.dll
+C:\Users\mbosk\Desktop\zadatak za intervju\btt-cdbhnd\BasketballTournament\obj\Debug\net8.0\refint\BasketballTournament.dll
+C:\Users\mbosk\Desktop\zadatak za intervju\btt-cdbhnd\BasketballTournament\obj\Debug\net8.0\BasketballTournament.pdb
+C:\Users\mbosk\Desktop\zadatak za intervju\btt-cdbhnd\BasketballTournament\obj\Debug\net8.0\BasketballTournament.genruntimeconfig.cache
+C:\Users\mbosk\Desktop\zadatak za intervju\btt-cdbhnd\BasketballTournament\obj\Debug\net8.0\ref\BasketballTournament.dll
